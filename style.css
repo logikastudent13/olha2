@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(193, 241, 241);
+    font-family: helvetica;
+}
+h1{
+    background-color: rgb(240, 81, 60);
+    color: aliceblue;
+    text-align: center;
+    border: 15px solid violet; 
+    border-radius: 10px;
+
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+     padding: 10px;
+
+    background-color: aqua;
+    border: 15px solid violet; 
+    border-radius: 3px;
+}
+nav{
+    border-radius: 10px;
+    background-color: rgb(255, 0, 221);
+     font-size: 40px;
+    text-align: center;
+    padding: 20px;
+    margin: 35px;
+}
+nav a{
+    background-color: beige;
+    padding: 5px;
+    border-radius: 10px;
+    margin-right: 20px;
+    border: 5px dashed rgb(140, 172, 240);
+    font-size: 25px;
+}
+
+
+
+
+
+footer{
+    background-color: beige;
+    border: 3px solid blue;
+    border-radius: 20px;
+    padding: 7px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+h4,p{
+    font-size: 22px;
+}
+
